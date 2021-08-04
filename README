@@ -1,0 +1,45 @@
+203050078@iitb.ac.in
+
+##Compiling and running of shell
+---------------------------------
+> 203050078 folder contains all the source files and makefile.
+> run the make command in this directory and then run $./myshell
+
+##Execution of commands
+-----------------------
+> all commands given in the assignment and standard commands can be execute successfully.
+> for accurately working of operators in command please dont give space after any operator like |,<,>,>>,;
+> pipe will only work between two commands
+
+##References
+------------
+
+> https://stackoverflow.com/questions/23367857/accurate-calculation-of-cpu-usage-given-in-percentage-in-linux#:~:text=A%20more%20accurate%20way%20to,33!
+(for calculating cpu percentage)
+
+> https://unix.stackexchange.com/questions/21836/how-to-find-out-total-memory-resource-usage-with-ps
+(for calculating process rss memory)
+
+> https://linux.die.net/man/2/pipe
+> https://www.geeksforgeeks.org/pipe-system-call/
+(learning about pipe)
+
+> https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/
+(learning about write, close, open, read system calls in c)
+
+> https://www.geeksforgeeks.org/fork-system-call/
+> https://man7.org/linux/man-pages/man2/fork.2.html
+(Learning about fork in c)
+
+> https://linux.die.net/man/3/execvp
+> https://www.geeksforgeeks.org/exec-family-of-functions-in-c/
+(Learning about execvp)
+
+> https://stackoverflow.com/questions/56572932/in-c-why-is-my-program-stuck-on-wait-when-trying-to-pipe-multiple-commands
+(Debug problem faced while implementing pipe)
+
+> https://www.geeksforgeeks.org/dup-dup2-linux-system-call/
+> https://man7.org/linux/man-pages/man2/dup.2.html
+(Learning about dup2)
+> https://www.youtube.com/watch?v=wtKounNCnkc
+(learning about makefile)

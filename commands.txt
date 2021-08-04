@@ -1,0 +1,13 @@
+
+echo 1
+echo 2
+echo 3
+echo 4
+echo 5
+echo 6
+echo 7
+ls
+cat commands.txt
+grep ech commands.txt
+cat commands.txt | sort 
+
